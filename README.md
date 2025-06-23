@@ -1,16 +1,18 @@
 <h1 align="center"><b>🚀Hi , I'm Santiago Oliva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>  🔥 <b><i><u>ABOUT ME</u></i></b> 🔥
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>  🔥 <b><i><u>SOBRE MI</u></i></b> 🔥
 
-💻 **Aspiring Java Back-End Developer | Passionate about Databases & Software Engineering**
+**✨ ¡Hola a todos! Soy Santiago Oliva, un entusiasta estudiante de la Tecnicatura Universitaria en Programación en la UTN. 🚀**
 
-- 🎓 I am a `University Student` pursuing a **Technicatura Universitaria en Programación** at [UTN - Universidad Tecnológica Nacional](https://www.utn.edu.ar).
-- 🚀 My main focus is on becoming a **Java Back-End Developer**.
-- 🗄️ I have a solid understanding of **Databases** and how to manage them efficiently.
-- 🎮 I have experience in `C#` and `C`, where I developed the **classic Snake Game** in `C`.
-- 🌐 I am proficient in `HTML`, `CSS`, and `JavaScript`, allowing me to build interactive web applications.
-- 🎯 My goal is to **specialize in Java and Database Management** to create high-performance systems.
-- 📚 **Always learning!** I am constantly improving my skills in `Software Development` and exploring new technologies.
+Mi gran pasión y objetivo es convertirme en un Desarrollador Backend Java. ☕ Estoy inmerso en el mundo de la Programación Orientada a Objetos (POO) y afianzando mis conocimientos en Java SE (¡con todo su potencial en variables, condicionales y modelo de capas!). 🛠️
+
+Mis bases de datos son mis aliadas: me manejo con soltura en Bases de Datos Relacionales como MySQL y PHPMyAdmin, dominando SQL y Joins. 🗄️ Y para asegurar un código impecable, confío en Git y GitHub para el control de versiones. 🐙
+
+¿Más habilidades? ¡Claro! Tengo experiencia en C (¡el lenguaje con el que di vida al clásico juego "Snake"! 🐍) y también en C#. Además, mis conocimientos en HTML y CSS me permiten entender el lado del frontend. 🎨
+
+Me encanta desentrañar problemas: soy un apasionado del diseño de algoritmos y el manejo de estructuras de datos para encontrar soluciones súper eficientes. 🧠
+
+Estoy en una constante aventura de aprendizaje continuo 📚, explorando sin parar nuevas tecnologías. ¡Siempre busco la oportunidad perfecta para aplicar mis conocimientos y contribuir al desarrollo de sistemas robustos y de alto rendimiento! 💪
 
 🔥 **Tech Stack:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
