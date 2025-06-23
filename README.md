@@ -1,8 +1,8 @@
-<h1 align="center"><b>🚀Hi , I'm Santiago Oliva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>🚀Holaa, soy Santiago Oliva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>  🔥 <b><i><u>SOBRE MI</u></i></b> 🔥
 
-**✨ ¡Hola a todos! Soy Santiago Oliva, un entusiasta estudiante de la Tecnicatura Universitaria en Programación en la UTN. 🚀**
+**✨ ¡Hola a todos! Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN. 🚀**
 
 Mi gran pasión y objetivo es convertirme en un Desarrollador Backend Java. ☕ Estoy inmerso en el mundo de la Programación Orientada a Objetos (POO) y afianzando mis conocimientos en Java SE (¡con todo su potencial en variables, condicionales y modelo de capas!). 🛠️
 
